@@ -1,0 +1,39 @@
+html, body {
+	height: 100%;
+  width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#map {
+    height: 100vh;
+    width: 100%;
+}
+
+#menu-toggle, #menu-toggle:focus{
+	font-size: 20px;
+	color: #4285F4;
+}
+
+body {
+    background-color: #fff;
+}
+
+title, h1, h3, ul, li, span {
+    color: #4285F4
+}
+
+li {
+    cursor: pointer;
+}
+
+span {
+	font-size: small;
+}
+
+
+.filter {
+	padding: 45px 20px;
+	background-color: #4285F4
+
+}
